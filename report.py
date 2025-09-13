@@ -27,7 +27,7 @@ def main():
     print(Fore.MAGENTA + "------------------------------------------------------------")
     
     try:
-        bot_token = "5882947325:AAGW5WXZP3qUe0K9vKX65qf2YdTJCXI2oks"  # Replace with your actual bot token
+        bot_token = "AAEXeSXL35GpIOwJus3pFNd7t9pgkOrGZSc"  # Replace with your actual bot token
 
         print(Fore.YELLOW + "Select the type of entity to report (user/channel/group):")
         target_type = input().lower()
@@ -131,3 +131,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
